@@ -1,0 +1,18 @@
+VCD info: dumpfile tb.vcd opened for output.
+[testbench] @ 0.00 ns: cnt = 'h0
+[testbench] @ 10.00 ns: cnt = 'h1
+[testbench] @ 20.00 ns: cnt = 'h2
+[testbench] @ 30.00 ns: cnt = 'h3
+[testbench] @ 40.00 ns: cnt = 'h4
+[testbench] @ 50.00 ns: cnt = 'h5
+[testbench] @ 60.00 ns: cnt = 'h6
+[testbench] @ 70.00 ns: cnt = 'h7
+[testbench] @ 80.00 ns: cnt = 'h8
+[testbench] @ 90.00 ns: cnt = 'h9
+[testbench] @ 100.00 ns: cnt = 'ha
+[testbench] @ 110.00 ns: cnt = 'hb
+[testbench] @ 120.00 ns: cnt = 'hc
+[testbench] @ 130.00 ns: cnt = 'hd
+[testbench] @ 140.00 ns: cnt = 'he
+[testbench] @ 150.00 ns: cnt = 'hf
+../sim/tb.v:30: $finish called at 150 (1ns)

@@ -1,0 +1,47 @@
+$date
+	Fri Aug 01 12:06:22 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb $end
+$var reg 4 ! cnt [3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+$end
+#10
+b1 !
+#20
+b10 !
+#30
+b11 !
+#40
+b100 !
+#50
+b101 !
+#60
+b110 !
+#70
+b111 !
+#80
+b1000 !
+#90
+b1001 !
+#100
+b1010 !
+#110
+b1011 !
+#120
+b1100 !
+#130
+b1101 !
+#140
+b1110 !
+#150
+b1111 !
